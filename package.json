@@ -1,0 +1,17 @@
+{
+  "name": "exodus-gpt-api",
+  "version": "1.0.0",
+  "description": "ExodusGPT - The Broken Hacker API powered by Darknyte Exodus",
+  "main": "api/exodus.js",
+  "scripts": {
+    "start": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["exodus", "gpt", "hacker", "api", "darknyte"],
+  "author": "Darknyte Exodus",
+  "license": "MIT",
+  "dependencies": {},
+  "engines": {
+    "node": "18.x"
+  }
+}
